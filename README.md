@@ -4,7 +4,7 @@ Baza de date gestionează o ligă de fotbal, permițând urmărirea statisticilo
 Fișierul conține și diverse query-uri PL/SQL pentru a învăța limbajul.
 
 ### Diagrama entitate-relație
-![image](https://i.imgur.com/QFY8fuq.png)
+![image](https://i.imgur.com/gAOUvzd.png)
 
 ### Diagrama conceptuală
 
