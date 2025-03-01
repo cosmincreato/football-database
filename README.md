@@ -1,5 +1,5 @@
 # Football Database
-Baza de date gestionează o ligă de fotbal. Aceasta poate fi utilizată atât pentru a urmări statistici esențiale ale jucătorilor și echipelor pe parcursul sezonului competițional, cât și pentru a vizualiza rapid ultimele rezultate sau clasamentul actual din ligă. Utilitatea bazei de date este de a oferi acces rapid și usor la orice informație vitală din lumea fotbalului.
+Baza de date gestionează o ligă de fotbal, permițând urmărirea statisticilor esențiale ale jucătorilor și echipelor pe parcursul sezonului competițional. De asemenea, oferă acces rapid la ultimele rezultate și la clasamentul actual al ligii. Scopul acesteia este de a facilita accesul rapid și ușor la informațiile esențiale din lumea fotbalului.
 
 Fișierul conține și diverse query-uri PL/SQL pentru a învăța limbajul.
 
