@@ -6,6 +6,6 @@ The file also includes various PL/SQL queries for learning the language.
 ### Entity Relationship Diagram
 ![image](https://i.imgur.com/gAOUvzd.png)
 
-### Conceptual diagram
+### Conceptual Diagram
 
 ![image](https://i.imgur.com/mvdKz3v.png)
