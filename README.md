@@ -1,11 +1,11 @@
 # Football Database
-Baza de date gestionează o ligă de fotbal, permițând urmărirea statisticilor esențiale ale jucătorilor și echipelor pe parcursul sezonului competițional. De asemenea, oferă acces rapid la ultimele rezultate și la clasamentul actual al ligii. Scopul acesteia este de a facilita accesul rapid și ușor la informațiile esențiale din lumea fotbalului.
+The database manages a football league, allowing the tracking of essential player and team statistics throughout the competitive season. It also provides quick access to the latest results and the current league standings. Its purpose is to facilitate fast and easy access to key information from the world of football.
 
-Fișierul conține și diverse query-uri PL/SQL pentru a învăța limbajul.
+The file also includes various PL/SQL queries for learning the language.
 
-### Diagrama entitate-relație
+### Entity Relationship Diagram
 ![image](https://i.imgur.com/gAOUvzd.png)
 
-### Diagrama conceptuală
+### Conceptual diagram
 
 ![image](https://i.imgur.com/mvdKz3v.png)
